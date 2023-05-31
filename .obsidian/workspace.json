@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LICENSE.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LICENSE.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LICENSE.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LICENSE.md"
+                "file": "README.md"
               }
             }
           },
@@ -190,8 +190,8 @@
   },
   "active": "f475e0bf08556afe",
   "lastOpenFiles": [
-    "README.md",
     "LICENSE.md",
+    "README.md",
     "LICENSE",
     "CONFLICT_2023-05-30_21-11-01_LICENSE",
     "00 - Templates",
