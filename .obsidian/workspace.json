@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 331.5
   },
   "right": {
     "id": "3f366c88ba329ca7",
@@ -150,8 +150,20 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "908e09ab9000dab6",
+  "active": "5cab03d4d994aa41",
   "lastOpenFiles": [
+    "03 - Work/03.08 - Finances/03.08.06 - Purchase Orders",
+    "03 - Work/03.08 - Finances/03.08.05 - Tax Documents.md",
+    "03 - Work/03.08 - Finances/03.08.05 - Tax Documents",
+    "03 - Work/03.08 - Finances/03.08.04 - Receipts",
+    "03 - Work/03.08 - Finances/03.08.03 - Expense Reports",
+    "03 - Work/03.08 - Finances/03.08.02 - Invoices",
+    "03 - Work/03.08 - Finances/03.08.01 - Budgets",
+    "03 - Work/03.07 - Contracts/03.07.03 - Employment Contracts",
+    "03 - Work/03.07 - Contracts/03.07.02 - Vendor Contracts",
+    "03 - Work/03.07 - Contracts/03.07.01 - Client Contracts",
+    "03 - Work/03.10 - Employers",
+    "03 - Work/03.06 - Proposals/03.06.04 - Client Proposals",
     "Untitled.md"
   ]
 }
